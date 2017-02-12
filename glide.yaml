@@ -1,0 +1,4 @@
+package: github.com/usiusi360/mbsa_to_json
+import:
+- package: github.com/tealeg/xlsx
+- package: golang.org/x/text/transform
